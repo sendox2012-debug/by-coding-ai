@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/by-coding-ai/', // <--- Добавь эту строку (имя твоего репозитория)
+  base: '/by-coding-ai/', 
 })
